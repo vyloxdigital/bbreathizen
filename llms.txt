@@ -1,0 +1,50 @@
+# Breathizen
+
+> Breathizen (label spelling: BreathiZen) is a dietary supplement oral spray made to support easy breathing. This is an independent affiliate landing page, not the manufacturer; orders are completed on the official Breathizen website. Last updated 2026-11-11.
+
+## What Breathizen is
+
+- Format: liquid oral spray in an amber glass pump bottle
+- Serving: 4 pumps (0.60 mL) once a day, ideally in the morning before the first meal; shake well first
+- Ingredients: mullein leaf extract (10:1), ginger root extract, bromelain, organic lemon extract, organic Cordyceps militaris fruiting body extract
+- Made in the USA in an FDA-registered facility, according to the manufacturer
+- Per-serving ingredient amounts are not published, and there is no published clinical trial of the finished product
+- It is a dietary supplement, not a medicine, and does not replace inhalers or prescribed treatment
+
+## Price (checked 2026-11-11, set by the manufacturer)
+
+| Pack | Per bottle | Total | US shipping | Bonuses |
+|---|---|---|---|---|
+| 2 bottles (60-day supply) | $79 | $158 | Charged at checkout | None |
+| 3 bottles (90-day supply) | $69 | $207 | Free | 5 digital guides |
+| 6 bottles (180-day supply) | $49 | $294 | Free | 5 digital guides |
+
+- One-time purchase, no subscription
+- 60-day money-back guarantee from the purchase date; the manufacturer's wording asks for at least 30 days of use before a refund request
+
+## Who should ask a doctor first
+
+People who are pregnant, nursing or under 18; anyone with asthma, COPD or high blood pressure; anyone taking blood thinners or other regular medication; anyone allergic to pineapple.
+
+## Sections of this page
+
+- [What Breathizen is and how it works](https://bbreathizen.vercel.app/#what)
+- [How to use Breathizen](https://bbreathizen.vercel.app/#how-to-use)
+- [Breathizen ingredients and evidence](https://bbreathizen.vercel.app/#ingredients)
+- [Breathizen pros and cons](https://bbreathizen.vercel.app/#pros-cons)
+- [Breathizen compared with other options](https://bbreathizen.vercel.app/#comparison)
+- [Breathizen price and packages](https://bbreathizen.vercel.app/#pricing)
+- [Breathizen 60-day guarantee](https://bbreathizen.vercel.app/#guarantee)
+- [Breathizen questions and answers](https://bbreathizen.vercel.app/#faq)
+
+## Sources
+
+- [NCCIH: Ginger](https://www.nccih.nih.gov/health/ginger)
+- [NCCIH: Bromelain](https://www.nccih.nih.gov/health/bromelain)
+- [NIH Office of Dietary Supplements: Vitamin C](https://ods.od.nih.gov/factsheets/VitaminC-Consumer/)
+- [American Lung Association: Breathing exercises](https://www.lung.org/lung-health-diseases/wellness/breathing-exercises)
+- [FDA: Dietary supplements](https://www.fda.gov/food/dietary-supplements)
+
+## Disclaimer
+
+These statements have not been evaluated by the Food and Drug Administration. This product is not intended to diagnose, treat, cure, or prevent any disease.

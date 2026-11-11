@@ -1,0 +1,11 @@
+{
+  "name": "Breathizen",
+  "short_name": "Breathizen",
+  "description": "Breathizen oral spray: ingredients, directions, prices and ordering from the official website.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#e8f1f7",
+  "theme_color": "#e8f1f7",
+  "lang": "en-US"
+}
